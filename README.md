@@ -1,7 +1,7 @@
-MLGtest
+MLGtest: A conservative test for asexuality
 =======
 
-MLGtest implements a test for asexuality based on the number of observed
+MLGtest implements a conservative test for asexuality based on the number of observed
 multilocus genotypes (MLGs).  For each of a given number of iterations (default
 1000), _n_ multilocus genotypes are constructed based on given allele frequency
 distributions.  The number of unique MLGs and the MLG frequency count are
